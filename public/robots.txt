@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kj-tours-and-travels.vercel.app/sitemap.xml
